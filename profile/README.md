@@ -1,0 +1,1 @@
+The Open Islamicate Texts Initiative (OpenITI) is a multi-institutional effort led by researchers at the Aga Khan University’s Institute for the Study of Muslim Civilisations in London, Roshan Institute for Persian Studies at the University of Maryland, College Park, and Universität Hamburg that aims to develop the digital infrastructure for the study of Islamicate cultures.
